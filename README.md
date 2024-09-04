@@ -1,2 +1,2 @@
 # StephanieLiechty-DataSciencePortfolio
-A curated collection of data science and analytics projects by Stephanie Liechty. This repository includes various projects showcasing skills in data analysis, machine learning, data visualization, and more. 
+Welcome to my data science portfolio! I'm Stephanie Liechty, and this repository is a curated collection of my most exciting and challenging data science projects. Here you'll find detailed explorations of deep learning, natural language processing, text mining, machine learning, and data visualization. Each project is a reflection of my passion for data and my journey through the intricacies of data science. Dive in to see how I tackle real-world problems with cutting-edge techniques and innovative solutions. 

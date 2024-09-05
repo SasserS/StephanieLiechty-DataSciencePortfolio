@@ -12,6 +12,3 @@ In this ongoing project, I'm developing a sophisticated finance chatbot that lev
 - Text Mining
 - Data Cleaning
 - Deep Reinforcement Learning
-
-The project is still being worked on, the code provided is the most current version of 
-the project. 
